@@ -1,27 +1,19 @@
-/*  your css code here. If applicable */
-   .main-container{
-            width: 90vw;
-            height: 400px;
-            background-color: #f5f5f5;
-            margin: auto;
-        }
-        .t-1{
-            width: 90%;
-            height: 60px;
-            background-color: white;
-            margin: 23px;
-            display:flex;
-            justify-content: space-between;
-            align-items: center;
-            margin-left: 40px;
-        
-        }
-        .t-1 p,h5{
+  .Main-Container{
 
-            padding-inline: 20px;
+            background-color: #f5f5f5;
+            padding: 40px;
         }
-      
-        h1{
-            padding-top: 35px;
-            margin-left: 40px;
+        .box{
+            background-color: white;
+            /* padding: 60px; */
+          
+        }
+        .Testimonial{
+            padding: 15px;
+            border: 1px solid white;
+        }
+       
+        .author{
+            text-align: right !important;
+            font-style: italic;
         }
